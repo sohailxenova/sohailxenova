@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @sohailxenova
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Xenovault Blockchain
 
-<!---
-sohailxenova/sohailxenova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Xenovault** is the foundational Layer-1 blockchain powering the Xenova Revolution ecosystem. It supports smart contracts, cross-chain interoperability, and high scalability for enterprise-grade decentralized applications.
+
+## Key Features
+- Native token: **Xenobit (XBT)**
+- Smart Contract Support (EVM-compatible)
+- Validator Node Architecture
+- Explorer & Wallet Integration
+- Bridges for Multi-chain Interactions
+
+## Tech Stack
+- Golang | Solidity | Cosmos SDK / Substrate (optional)
